@@ -4,9 +4,9 @@
 
 ## Personal details
 
-I am 30 years old. My first profession is a math teacher. So my main skill is the ability to learn.
-
-Two years ago I decided to change it and became a front-end developer.
+I am 30 years old. My first profession was a math teacher, so my main skill is the ability to learn which helps me a lot.
+Two years ago I decided to change my profession and became a front-end developer. 
+I am very happy about this fact, because working as a developer I face difficult tasks solving which makes a positive contribution.
 
 **phone number:** (+375) 29 629 73 71
 
@@ -27,10 +27,14 @@ Also I can work with React Router, Redux Form, Jest, Sass, Express, MySQL, Seque
 
 **_Position_:** frond-end developer
 
-I am currently working on an application for creating and passing tests and practical programming tasks. 
+All this time I have been working in a team that included not only developers, 
+but also business analysts and quality assurance specialists, 
+using the SCRAM methodology hence can work as part of a team that solves problems together.
 
-As part of this project, I have implemented about 50 features and improvements. 
-Among them are several at the back end, for example, obfuscation of user data.
+I am currently working on an application for creating and passing tests and practical programming tasks. 
+As a part of this project, I have implemented about 50 features and improvements. 
+Among them there are several ones at the back end, for example, obfuscation of user data.
+Also I do code review and code refactoring regularly including transforming class components into functions using hooks.
 
 ## Education
 
