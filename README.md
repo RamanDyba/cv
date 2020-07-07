@@ -29,7 +29,7 @@ Also I can work with React Router, Redux Form, Jest, Sass, Express, MySQL, Seque
 
 I am currently working on an application for creating and passing tests and practical programming tasks. 
 
-As part of this project, I have implemented about 50 functions and improvements. 
+As part of this project, I have implemented about 50 features and improvements. 
 Among them are several at the back end, for example, obfuscation of user data.
 
 ## Education
