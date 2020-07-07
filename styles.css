@@ -1,0 +1,159 @@
+@font-face {
+    font-family: "Helvetica";
+    src: url("./assets/fonts/Helvetica/Helvetica.otf") format("otf");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Helvetica-Bold";
+    src: url("./assets/fonts/Helvetica/Helvetica-Bold.otf") format("otf");
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Helvetica-Oblique";
+    src: url("./assets/fonts/Helvetica/Helvetica-Oblique.otf") format("otf");
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+
+  html {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 62.5%;
+  }
+
+  p {
+    margin-top: 0;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+  .main-container {
+    max-width: 1024px;
+    margin: 0 auto;
+  
+    font-size: 1.6rem;
+  
+    background: linear-gradient(0deg,  #ffffff 20%, rgb(144, 149, 158) 40%, #ffffff 80%);
+  }
+  
+  .section {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 25px auto;
+  }
+  
+  .section-name {
+    width: 18%;
+    margin: 0;
+  
+    font-size: 2rem;
+    font-weight: normal;
+    text-transform: uppercase; 
+  }
+  
+  .section-data {
+    width: 80%;
+  }
+  
+  /* headline */
+  .headline {
+    margin-top: 30px;
+  
+    text-align: center;
+  }
+  
+  .headline h1 {
+    margin: 0;
+  
+    font-size: 3rem;
+  }
+  
+  .headline p { 
+    margin: 0;
+  
+    font-style: italic; 
+  }
+  
+  /* personal section */
+  .personal-details .section-data {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .personal-form {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    padding-left: 0;
+    margin-top: 0;
+  
+    list-style: none;
+  }
+  
+  .summary {
+    margin-bottom: 20px;
+  }
+  
+  .summary p {
+    margin-bottom: 10px;
+  
+    text-align: justify;
+    text-indent: 30px;
+  }
+  
+  .formitem {
+    display: flex;
+  }
+  
+  .formitem-name {
+    width: 30%;
+  
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  .formitem-content {
+    width: 65%;
+  }
+  
+  .photo {
+    width: 30%;
+  }
+  
+  /* education and experience sections */
+  .period {
+    margin-bottom: 5px;
+  
+    font-style: italic;
+  }
+  
+  .institution {
+    margin-bottom: 5px;
+  
+    font-weight: bold;
+  }
+  
+  .faculty {
+    font-style: italic;
+  }
+  
+  .education-stage {
+    margin: 20px 40px;
+  }
+  
+  .education-stage p {
+    margin-bottom: 5px;
+  }
+  
+  .rss {
+    margin-top: 20px;
+  }
+  
