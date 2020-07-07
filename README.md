@@ -29,7 +29,7 @@ Also I can work with React Router, Redux Form, Jest, Sass, Express, MySQL, Seque
 
 All this time I have been working in a team that included not only developers, 
 but also business analysts and quality assurance specialists, 
-using the SCRAM methodology hence can work as part of a team that solves problems together.
+using the SCRUM methodology hence can work as part of a team that solves problems together.
 
 I am currently working on an application for creating and passing tests and practical programming tasks. 
 As a part of this project, I have implemented about 50 features and improvements. 
